@@ -1,0 +1,1 @@
+java -jar sk.seky.pdfconverter.jar data/paper.pdf data/presentation.pdf >> log.txt
